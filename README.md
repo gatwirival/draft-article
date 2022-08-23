@@ -155,16 +155,19 @@ Keep your npm packages up-to-date by running `yarn` or `npm`
 
 ## Understanding the shakapacker react generated structure
 
-- Pack
+1. Pack
+
 webpack has a notion of entry points which are the files that it looks for first when it starts compiling your JavaScript code. Webpacker gem creates the application pack in the form of this application.js file under app/javascript/packs. 
 
-- Pack_tag
+2. Pack_tag
+
 They create a link tag that references the named pack file, 
 
-- The webpacker.yml file. 
+3. The webpacker.yml file. 
+
 Configures how webpacker works and you can turn on and off different functions and extensions. You may not need to modify the file at all in most cases
 
-- Webpacker.yml file layout
+### Webpacker.yml file layout
 
 > config
  ...
