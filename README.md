@@ -165,9 +165,10 @@ They create a link tag that references the named pack file,
 Configures how webpacker works and you can turn on and off different functions and extensions. You may not need to modify the file at all in most cases
 
 - Webpacker.yml file layout
-config
+
+> config
  ...
-- webpack folder
+>  webpack folder
 - - development.js
 - - environment.js
 - - production.js
