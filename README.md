@@ -194,6 +194,7 @@ There are a few things you should consider while integrating two technologies:
 - performance 
 - scalability
 - documentation
+
 Compatibility is important because you want to make sure the two technologies can work together. Security is important because you want to make sure your data is safe. Performance is important because you want your website or application to run smoothly. Scalability is important because you want your website or application to be able to handle more traffic as it grows.
 
 ## Conclusion
