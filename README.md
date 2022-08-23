@@ -167,12 +167,13 @@ Configures how webpacker works and you can turn on and off different functions a
 - Webpacker.yml file layout
 config
  ...
-webpack folder
+- webpack folder
 - - development.js
 - - environment.js
 - - production.js
 - - test.js
-webpacker.yml
+
+- webpacker.yml
 
 ## What are its advantages?
 Shakapacker is a tool that can help you quickly and easily integrate Rails and React. It has several advantages, including - You don't need to install any dependencies other than Rails and React itself
